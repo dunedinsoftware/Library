@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ----------------------
-# KUDU Deployment Script
+# KUDU Deployment Scripteasd
 # Version: 1.0.6
 # ----------------------
 
